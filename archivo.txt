@@ -2,3 +2,4 @@ Adrian es el coordinador
 Jesús es el colaborador
 
 Contribución desde un fork de Jesús.
+Nueva mejora propuesta por Jesús.
