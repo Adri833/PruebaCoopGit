@@ -11,6 +11,7 @@
     <title>GestionBiblioteca</title>
 </head>
 <body>
+    <h1>Gestion de Biblioteca</h1>
     <h1>Libros disponibles: <?= $librosDisponibles?></h1>
 
 </body>
