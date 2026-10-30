@@ -14,6 +14,7 @@
     <h1>Gestion de Biblioteca</h1>
     <h1>Libros disponibles: <?= $librosDisponibles?></h1>
     <h1>Cambio 1 realizado por jesús</h1>
+    <h2>Cambio 2 realizado por jesús</h2>
 
     <p>Esto va a dar fallo</p>
 </body>
